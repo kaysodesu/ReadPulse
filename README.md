@@ -211,3 +211,5 @@ Go to `chrome://extensions`, find ReadPulse and click **Remove**. You can then d
 ## License
 
 [MIT](LICENSE). Free to use, modify and share.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T5N72AQZSL)
